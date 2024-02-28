@@ -1,7 +1,12 @@
+* {
+    margin: 0;
+    padding: 24px 0;
+}
 .cabeçalho {background-color: #383D58;
     color: white;
 display: flex;
 justify-content: space-around;
+padding: 24px 0;
 }
 .cabeçalho-imagem{
 
@@ -9,4 +14,7 @@ justify-content: space-around;
 }
 .cabeçalho-lista-item {
     display: inline-block;
+    margin: 0 16px;
+    padding: 24px o;
+    font-size: 24px;
 }
